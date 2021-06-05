@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace URI_1005
 {
@@ -7,15 +8,15 @@ namespace URI_1005
         static void Main(string[] args)
         {
             double A, B, media;
+            CultureInfo CI = CultureInfo.InvariantCulture;
 
-            A = double.Parse(Console.ReadLine());
-            B = double.Parse(Console.ReadLine());
+            A = double.Parse(Console.ReadLine(), CI);
+            B = double.Parse(Console.ReadLine(), CI);
 
-            media = ((A*3.5) + (B*7.5));
-            media = media / 11;
+            media = (A * 3.5) + (B * 7.5);
+            media = media / 11.0;
 
-            Console.WriteLine($"MEDIA = {media.ToString("#.00000")}");
-            
+            Console.WriteLine($"MEDIA = {media.ToString("F5", CI)}");
         }
     }
 }
