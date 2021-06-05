@@ -16,7 +16,7 @@ namespace URI_1005
             media = (A * 3.5) + (B * 7.5);
             media = media / 11.0;
 
-            Console.WriteLine($"MEDIA = {media.ToString("F5", CI)}");
+            Console.WriteLine("MEDIA = " + media.ToString("F5", CI));
         }
     }
 }
