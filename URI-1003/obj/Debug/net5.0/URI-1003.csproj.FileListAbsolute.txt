@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\bin\Debug\net5.0\URI-1003.exe
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\bin\Debug\net5.0\URI-1003.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\bin\Debug\net5.0\URI-1003.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\bin\Debug\net5.0\URI-1003.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\bin\Debug\net5.0\URI-1003.dll
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\bin\Debug\net5.0\ref\URI-1003.dll
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\bin\Debug\net5.0\URI-1003.pdb
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\obj\Debug\net5.0\URI-1003.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\obj\Debug\net5.0\URI-1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\obj\Debug\net5.0\URI-1003.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\obj\Debug\net5.0\URI-1003.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\obj\Debug\net5.0\URI-1003.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\obj\Debug\net5.0\URI-1003.dll
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\obj\Debug\net5.0\ref\URI-1003.dll
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\obj\Debug\net5.0\URI-1003.pdb
+C:\Users\Matheus Muniz\Desktop\URI\URI-1003\obj\Debug\net5.0\URI-1003.genruntimeconfig.cache
