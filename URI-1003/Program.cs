@@ -6,7 +6,15 @@ namespace URI_1003
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int A = 0;
+            int B = 0;
+            
+            A = Convert.ToInt32(Console.ReadLine());
+            B = Convert.ToInt32(Console.ReadLine());
+
+            int SOMA = A + B;
+
+            Console.WriteLine("SOMA = " + SOMA);
         }
     }
 }
