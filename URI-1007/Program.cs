@@ -6,7 +6,15 @@ namespace URI_1007
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int A, B, C, D, diff;
+            A = int.Parse(Console.ReadLine());
+            B = int.Parse(Console.ReadLine());
+            C = int.Parse(Console.ReadLine());
+            D = int.Parse(Console.ReadLine());
+
+            diff = A * B - C * D;
+            
+            Console.WriteLine("DIFERENCA = " + diff);
         }
     }
 }
