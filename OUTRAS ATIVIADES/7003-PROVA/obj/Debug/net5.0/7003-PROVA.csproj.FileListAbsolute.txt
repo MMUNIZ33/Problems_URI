@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\bin\Debug\net5.0\7003-PROVA.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\bin\Debug\net5.0\7003-PROVA.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\bin\Debug\net5.0\7003-PROVA.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\bin\Debug\net5.0\7003-PROVA.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\bin\Debug\net5.0\7003-PROVA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\bin\Debug\net5.0\ref\7003-PROVA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\bin\Debug\net5.0\7003-PROVA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\obj\Debug\net5.0\7003-PROVA.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\obj\Debug\net5.0\7003-PROVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\obj\Debug\net5.0\7003-PROVA.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\obj\Debug\net5.0\7003-PROVA.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\obj\Debug\net5.0\7003-PROVA.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\obj\Debug\net5.0\7003-PROVA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\obj\Debug\net5.0\ref\7003-PROVA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\obj\Debug\net5.0\7003-PROVA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7003-PROVA\obj\Debug\net5.0\7003-PROVA.genruntimeconfig.cache
