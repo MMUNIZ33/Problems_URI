@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "7004-MENOR/1.0.0": {
+        "runtime": {
+          "7004-MENOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7004-MENOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
