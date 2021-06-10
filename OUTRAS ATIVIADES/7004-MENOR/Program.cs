@@ -6,7 +6,26 @@ namespace _7004_MENOR
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x, y, z;
+
+            string[] vet = Console.ReadLine().Split(' ');
+
+            x = int.Parse(vet[0]);
+            y = int.Parse(vet[1]);
+            z = int.Parse(vet[2]);
+
+            if (x < y && x < z)
+            {
+                System.Console.WriteLine("MENOR = " + x);       
+            }
+            else if (y < z)
+            {
+                System.Console.WriteLine("MENOR = " + y);
+            }
+            else
+            {
+                System.Console.WriteLine("MENOR = " + z);
+            }
         }
     }
 }
