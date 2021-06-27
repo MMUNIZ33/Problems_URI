@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\bin\Debug\net5.0\7007-PARA.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\bin\Debug\net5.0\7007-PARA.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\bin\Debug\net5.0\7007-PARA.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\bin\Debug\net5.0\7007-PARA.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\bin\Debug\net5.0\7007-PARA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\bin\Debug\net5.0\ref\7007-PARA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\bin\Debug\net5.0\7007-PARA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\obj\Debug\net5.0\7007-PARA.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\obj\Debug\net5.0\7007-PARA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\obj\Debug\net5.0\7007-PARA.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\obj\Debug\net5.0\7007-PARA.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\obj\Debug\net5.0\7007-PARA.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\obj\Debug\net5.0\7007-PARA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\obj\Debug\net5.0\ref\7007-PARA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\obj\Debug\net5.0\7007-PARA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7007-PARA\obj\Debug\net5.0\7007-PARA.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "7007-PARA/1.0.0": {
+        "runtime": {
+          "7007-PARA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7007-PARA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
