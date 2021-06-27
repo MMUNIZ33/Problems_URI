@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\bin\Debug\net5.0\7005-WHILE.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\bin\Debug\net5.0\7005-WHILE.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\bin\Debug\net5.0\7005-WHILE.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\bin\Debug\net5.0\7005-WHILE.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\bin\Debug\net5.0\7005-WHILE.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\bin\Debug\net5.0\ref\7005-WHILE.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\bin\Debug\net5.0\7005-WHILE.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\obj\Debug\net5.0\7005-WHILE.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\obj\Debug\net5.0\7005-WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\obj\Debug\net5.0\7005-WHILE.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\obj\Debug\net5.0\7005-WHILE.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\obj\Debug\net5.0\7005-WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\obj\Debug\net5.0\7005-WHILE.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\obj\Debug\net5.0\ref\7005-WHILE.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\obj\Debug\net5.0\7005-WHILE.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7005-WHILE\obj\Debug\net5.0\7005-WHILE.genruntimeconfig.cache
