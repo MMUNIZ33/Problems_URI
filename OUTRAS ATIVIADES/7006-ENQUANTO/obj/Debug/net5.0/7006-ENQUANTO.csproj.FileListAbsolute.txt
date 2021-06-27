@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\bin\Debug\net5.0\7006-ENQUANTO.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\bin\Debug\net5.0\7006-ENQUANTO.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\bin\Debug\net5.0\7006-ENQUANTO.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\bin\Debug\net5.0\7006-ENQUANTO.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\bin\Debug\net5.0\7006-ENQUANTO.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\bin\Debug\net5.0\ref\7006-ENQUANTO.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\bin\Debug\net5.0\7006-ENQUANTO.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\obj\Debug\net5.0\7006-ENQUANTO.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\obj\Debug\net5.0\7006-ENQUANTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\obj\Debug\net5.0\7006-ENQUANTO.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\obj\Debug\net5.0\7006-ENQUANTO.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\obj\Debug\net5.0\7006-ENQUANTO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\obj\Debug\net5.0\7006-ENQUANTO.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\obj\Debug\net5.0\ref\7006-ENQUANTO.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\obj\Debug\net5.0\7006-ENQUANTO.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7006-ENQUANTO\obj\Debug\net5.0\7006-ENQUANTO.genruntimeconfig.cache
