@@ -6,7 +6,17 @@ namespace _7005_WHILE
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int num, soma;
+            soma = 0;
+            num = int.Parse(Console.ReadLine());
+
+            while (num != 0)
+            {
+                soma = soma + num;
+                num = int.Parse(Console.ReadLine());
+            }
+            
+            System.Console.WriteLine(soma);
         }
     }
 }
