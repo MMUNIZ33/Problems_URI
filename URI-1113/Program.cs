@@ -17,7 +17,7 @@ namespace URI_1113
                 {
                     System.Console.WriteLine("Decrescente");
                 }
-                else (x < y)
+                else
                 {
                     System.Console.WriteLine("Crescente");
                 }
