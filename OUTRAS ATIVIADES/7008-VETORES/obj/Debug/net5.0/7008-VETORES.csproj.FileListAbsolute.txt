@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\bin\Debug\net5.0\7008-VETORES.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\bin\Debug\net5.0\7008-VETORES.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\bin\Debug\net5.0\7008-VETORES.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\bin\Debug\net5.0\7008-VETORES.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\bin\Debug\net5.0\7008-VETORES.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\bin\Debug\net5.0\ref\7008-VETORES.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\bin\Debug\net5.0\7008-VETORES.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\obj\Debug\net5.0\7008-VETORES.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\obj\Debug\net5.0\7008-VETORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\obj\Debug\net5.0\7008-VETORES.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\obj\Debug\net5.0\7008-VETORES.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\obj\Debug\net5.0\7008-VETORES.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\obj\Debug\net5.0\7008-VETORES.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\obj\Debug\net5.0\ref\7008-VETORES.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\obj\Debug\net5.0\7008-VETORES.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7008-VETORES\obj\Debug\net5.0\7008-VETORES.genruntimeconfig.cache
