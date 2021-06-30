@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\bin\Debug\net5.0\7010-CALMEDIA.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\bin\Debug\net5.0\7010-CALMEDIA.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\bin\Debug\net5.0\7010-CALMEDIA.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\bin\Debug\net5.0\7010-CALMEDIA.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\bin\Debug\net5.0\7010-CALMEDIA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\bin\Debug\net5.0\ref\7010-CALMEDIA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\bin\Debug\net5.0\7010-CALMEDIA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\obj\Debug\net5.0\7010-CALMEDIA.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\obj\Debug\net5.0\7010-CALMEDIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\obj\Debug\net5.0\7010-CALMEDIA.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\obj\Debug\net5.0\7010-CALMEDIA.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\obj\Debug\net5.0\7010-CALMEDIA.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\obj\Debug\net5.0\7010-CALMEDIA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\obj\Debug\net5.0\ref\7010-CALMEDIA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\obj\Debug\net5.0\7010-CALMEDIA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7010-CALMEDIA\obj\Debug\net5.0\7010-CALMEDIA.genruntimeconfig.cache

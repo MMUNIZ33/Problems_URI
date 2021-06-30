@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "7010-CALMEDIA/1.0.0": {
+        "runtime": {
+          "7010-CALMEDIA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7010-CALMEDIA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
