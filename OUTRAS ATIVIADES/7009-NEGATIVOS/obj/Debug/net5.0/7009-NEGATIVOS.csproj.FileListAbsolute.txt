@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\bin\Debug\net5.0\7009-NEGATIVOS.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\bin\Debug\net5.0\7009-NEGATIVOS.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\bin\Debug\net5.0\7009-NEGATIVOS.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\bin\Debug\net5.0\7009-NEGATIVOS.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\bin\Debug\net5.0\7009-NEGATIVOS.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\bin\Debug\net5.0\ref\7009-NEGATIVOS.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\bin\Debug\net5.0\7009-NEGATIVOS.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\obj\Debug\net5.0\7009-NEGATIVOS.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\obj\Debug\net5.0\7009-NEGATIVOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\obj\Debug\net5.0\7009-NEGATIVOS.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\obj\Debug\net5.0\7009-NEGATIVOS.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\obj\Debug\net5.0\7009-NEGATIVOS.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\obj\Debug\net5.0\7009-NEGATIVOS.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\obj\Debug\net5.0\ref\7009-NEGATIVOS.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\obj\Debug\net5.0\7009-NEGATIVOS.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7009-NEGATIVOS\obj\Debug\net5.0\7009-NEGATIVOS.genruntimeconfig.cache
