@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\bin\Debug\net5.0\teste.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\bin\Debug\net5.0\teste.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\bin\Debug\net5.0\teste.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\bin\Debug\net5.0\ref\teste.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\bin\Debug\net5.0\teste.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\obj\Debug\net5.0\teste.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\obj\Debug\net5.0\teste.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\obj\Debug\net5.0\ref\teste.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\obj\Debug\net5.0\teste.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache
