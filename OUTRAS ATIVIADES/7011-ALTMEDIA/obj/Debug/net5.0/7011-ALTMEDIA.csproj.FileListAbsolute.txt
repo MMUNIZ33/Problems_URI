@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\bin\Debug\net5.0\7011-ALTMEDIA.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\bin\Debug\net5.0\7011-ALTMEDIA.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\bin\Debug\net5.0\7011-ALTMEDIA.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\bin\Debug\net5.0\7011-ALTMEDIA.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\bin\Debug\net5.0\7011-ALTMEDIA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\bin\Debug\net5.0\ref\7011-ALTMEDIA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\bin\Debug\net5.0\7011-ALTMEDIA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\obj\Debug\net5.0\7011-ALTMEDIA.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\obj\Debug\net5.0\7011-ALTMEDIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\obj\Debug\net5.0\7011-ALTMEDIA.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\obj\Debug\net5.0\7011-ALTMEDIA.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\obj\Debug\net5.0\7011-ALTMEDIA.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\obj\Debug\net5.0\7011-ALTMEDIA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\obj\Debug\net5.0\ref\7011-ALTMEDIA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\obj\Debug\net5.0\7011-ALTMEDIA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7011-ALTMEDIA\obj\Debug\net5.0\7011-ALTMEDIA.genruntimeconfig.cache

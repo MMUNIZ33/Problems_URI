@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "7011-ALTMEDIA/1.0.0": {
+        "runtime": {
+          "7011-ALTMEDIA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7011-ALTMEDIA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
