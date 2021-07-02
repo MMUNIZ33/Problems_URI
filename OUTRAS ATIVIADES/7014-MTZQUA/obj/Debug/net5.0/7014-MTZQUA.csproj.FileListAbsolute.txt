@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\bin\Debug\net5.0\7014-MTZQUA.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\bin\Debug\net5.0\7014-MTZQUA.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\bin\Debug\net5.0\7014-MTZQUA.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\bin\Debug\net5.0\7014-MTZQUA.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\bin\Debug\net5.0\7014-MTZQUA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\bin\Debug\net5.0\ref\7014-MTZQUA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\bin\Debug\net5.0\7014-MTZQUA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\obj\Debug\net5.0\7014-MTZQUA.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\obj\Debug\net5.0\7014-MTZQUA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\obj\Debug\net5.0\7014-MTZQUA.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\obj\Debug\net5.0\7014-MTZQUA.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\obj\Debug\net5.0\7014-MTZQUA.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\obj\Debug\net5.0\7014-MTZQUA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\obj\Debug\net5.0\ref\7014-MTZQUA.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\obj\Debug\net5.0\7014-MTZQUA.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7014-MTZQUA\obj\Debug\net5.0\7014-MTZQUA.genruntimeconfig.cache
