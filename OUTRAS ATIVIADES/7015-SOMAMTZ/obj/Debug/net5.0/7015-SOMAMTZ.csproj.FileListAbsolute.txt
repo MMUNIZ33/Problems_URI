@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\bin\Debug\net5.0\7015-SOMAMTZ.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\bin\Debug\net5.0\7015-SOMAMTZ.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\bin\Debug\net5.0\7015-SOMAMTZ.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\bin\Debug\net5.0\7015-SOMAMTZ.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\bin\Debug\net5.0\7015-SOMAMTZ.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\bin\Debug\net5.0\ref\7015-SOMAMTZ.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\bin\Debug\net5.0\7015-SOMAMTZ.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\obj\Debug\net5.0\7015-SOMAMTZ.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\obj\Debug\net5.0\7015-SOMAMTZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\obj\Debug\net5.0\7015-SOMAMTZ.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\obj\Debug\net5.0\7015-SOMAMTZ.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\obj\Debug\net5.0\7015-SOMAMTZ.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\obj\Debug\net5.0\7015-SOMAMTZ.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\obj\Debug\net5.0\ref\7015-SOMAMTZ.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\obj\Debug\net5.0\7015-SOMAMTZ.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7015-SOMAMTZ\obj\Debug\net5.0\7015-SOMAMTZ.genruntimeconfig.cache
