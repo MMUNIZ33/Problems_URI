@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\bin\Debug\net5.0\7013-MATRIZES.exe
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\bin\Debug\net5.0\7013-MATRIZES.deps.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\bin\Debug\net5.0\7013-MATRIZES.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\bin\Debug\net5.0\7013-MATRIZES.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\bin\Debug\net5.0\7013-MATRIZES.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\bin\Debug\net5.0\ref\7013-MATRIZES.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\bin\Debug\net5.0\7013-MATRIZES.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\obj\Debug\net5.0\7013-MATRIZES.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\obj\Debug\net5.0\7013-MATRIZES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\obj\Debug\net5.0\7013-MATRIZES.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\obj\Debug\net5.0\7013-MATRIZES.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\obj\Debug\net5.0\7013-MATRIZES.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\obj\Debug\net5.0\7013-MATRIZES.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\obj\Debug\net5.0\ref\7013-MATRIZES.dll
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\obj\Debug\net5.0\7013-MATRIZES.pdb
+C:\Users\Matheus Muniz\Desktop\URI\OUTRAS ATIVIADES\7013-MATRIZES\obj\Debug\net5.0\7013-MATRIZES.genruntimeconfig.cache
